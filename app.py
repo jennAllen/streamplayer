@@ -1,5 +1,5 @@
 from streamlit_player import st_player
-from streamlit as st
+import streamlit as st
 
 # Embed a youtube video Rick Roll
 #st_player("https://www.youtube.com/watch?v=eBGIQ7ZuuiU")
