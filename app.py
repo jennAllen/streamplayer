@@ -5,7 +5,7 @@ import streamlit as st
 #st_player("https://www.youtube.com/watch?v=eBGIQ7ZuuiU")
 
 # Embed a youtube video - Alan Walker
-st.text_area(value="Video should be Alan Walker")
+st.text_area("Video should be Alan Walker")
 st_player("https://www.youtube.com/watch?v=wJnBTPUQS5A")
 
 # Embed a music from SoundCloud
