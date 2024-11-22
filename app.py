@@ -1,4 +1,5 @@
 from streamlit_player import st_player
+import streamlit as st
 
 st.text("This is a test app - it plays music!")
 
